@@ -1,0 +1,6 @@
+[submodule "115AReceiptSplitterFrontend"]
+	path = 115AReceiptSplitterFrontend
+	url = https://github.com/brookezhang/115AReceiptSplitterFrontend
+[submodule "115AReceiptSplitterBackend"]
+	path = 115AReceiptSplitterBackend
+	url = https://github.com/brookezhang/115AReceiptSplitterBackend
